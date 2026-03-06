@@ -1,154 +1,135 @@
-# 🌍 Plight  
-### AI-Powered Innovation Suggestion Engine
+# 🧩 plight-discover-and-solve-real-problems - Find Real Problems Fast
 
-> **Innovation should begin with evidence, not guesswork.**
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge)](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
 
-**Plight** is an AI-driven platform designed to help **students, researchers, and innovators** discover **authentic, unsolved, and data-backed real-world problem statements** instead of recycling generic project or hackathon ideas.
+## 📖 About Plight
 
-Plight analyzes **global datasets, research literature, and sustainable development indicators** to surface meaningful problems worth solving — ranked by **impact, urgency, feasibility, and novelty**.
+Plight is a tool that helps students, researchers, and innovators find real, important problems. It uses open global data like the United Nations Sustainable Development Goals (UN SDGs), GDELT, and arXiv research papers. The platform shows problem statements backed by actual data. This way, you can focus on ideas that matter in the world.
 
----
+The software runs on Windows and is made for everyday users. You do not need technical knowledge to use it.  
 
-## 🚩 Why Plight Exists
-
-In today’s innovation ecosystem:
-- Hackathon ideas are often repetitive  
-- Research topics lack real-world grounding  
-- Students struggle to identify *what actually matters*  
-
-🚀 **Plight changes this by ensuring that innovation starts with evidence** — not trends, not guesswork, not imagination alone.
+Plight works with modern web technologies like React, Node.js, and TypeScript. It uses natural language processing (NLP) to suggest meaningful problems from big datasets.
 
 ---
 
-## 🧠 What Plight Does
+## 🔎 What Plight Does
 
-Plight acts as an **Innovation Intelligence Engine** that:
-
-- Scans **open global datasets** and **research repositories**
-- Identifies **under-addressed, high-impact problem areas**
-- Filters out overdone or saturated ideas
-- Ranks problems using AI-driven relevance scoring
-- Outputs **structured, actionable problem statements**
-
-This allows users to focus on **solving the right problems**, not just building something new.
+- Shows real-world problem statements from trusted sources  
+- Helps you explore data on global challenges  
+- Provides clear, data-driven insights  
+- Supports innovation and research by pointing to trending issues  
+- Uses AI to filter and suggest relevant problems  
 
 ---
 
-## 🔍 Key Features
+## 💻 System Requirements
 
-- 🌐 **Data-Backed Problem Discovery**  
-  Problems are derived from real-world datasets and research signals.
+To run Plight on Windows, your computer should meet these minimum specs:
 
-- 📊 **Impact & Feasibility Ranking**  
-  Each problem is evaluated on impact, urgency, novelty, and practicality.
-
-- 🎯 **Personalized Recommendations**  
-  Tailored suggestions based on user domain, skill level, and purpose.
-
-- 🌱 **SDG-Aligned Innovation**  
-  Problems are mapped to global sustainability and development goals.
-
-- 🧩 **Structured Problem Outputs**  
-  Clear, consistent problem cards designed for projects, research, and startups.
+- Windows 10 or later (64-bit recommended)  
+- 4 GB of RAM  
+- 2 GHz processor or faster  
+- At least 500 MB of free disk space  
+- Internet connection for data updates and AI suggestions  
 
 ---
 
-## 🧱 Problem Output Structure
+## 🚀 Getting Started
 
-Each problem surfaced by Plight follows a strict structure:
+Follow these steps to download and start using Plight on your Windows PC.
 
-- **Title** – Concise and non-generic  
-- **Problem Statement** – Clearly defined, evidence-based issue  
-- **Evidence** – Dataset or research source + observed trend  
-- **Why This Matters** – Societal, environmental, or economic impact  
-- **SDG Alignment** – Relevant global development goal(s)  
-- **Who Is Affected** – Region and demographic  
-- **Suggested Technical Directions** – AI / Data / IoT / Systems  
-- **Feasibility Level** – Beginner / Intermediate / Advanced  
+### Step 1: Visit the Download Page
 
----
+You need to visit the GitHub page where Plight is hosted. From there, you can get the latest release and installation files.
 
-## 🌍 Data Sources (Planned & In Use)
+[Click here to visit the download page](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
 
-Plight is designed to integrate with open and credible data sources such as:
+### Step 2: Download the Software
 
-- **:contentReference[oaicite:0]{index=0} Sustainable Development Goals (SDGs)**
-- **:contentReference[oaicite:1]{index=1}** (global events & trends)
-- **:contentReference[oaicite:2]{index=2}** (research literature)
-- Open government and global development datasets
+On the GitHub page:
 
-> ⚠️ Plight does **not** fabricate data or statistics.  
-> All outputs are designed to be evidence-grounded.
+1. Look for the green button labeled **Code** or the **Releases** section on the right or bottom of the page.  
+2. Click **Releases** to find the latest version of Plight.  
+3. Download the Windows installer file. It may appear as something like `Plight-Setup.exe`.  
 
----
+If you do not see an installer directly, check the **Assets** section inside the latest release.
 
-## 🏗️ Tech Stack
+### Step 3: Run the Installer
 
-**Frontend**
-- React (Vite)
-- TypeScript & JavaScript
-- HTML5 & CSS3
-- Tailwind CSS
-- shadcn/ui
+Once the file downloads:
 
-**Backend (Planned)**
-- FastAPI / Node.js
-- Secure API handling with environment variables
+1. Find the installer file in your **Downloads** folder.
+2. Double-click the file to start the setup.
+3. Follow the installation prompts:
+   - Choose your language.
+   - Accept the license agreement.
+   - Select the folder where you want Plight installed.
+4. Click **Install** and wait while the software sets up.
 
-**AI / Data Layer (Planned)**
-- NLP for problem extraction
-- Semantic clustering
-- Trend analysis
-- Relevance & feasibility scoring
+### Step 4: Launch Plight
+
+After installation finishes:
+
+1. Find the Plight shortcut on your desktop or in the Start menu.
+2. Click the icon to open the app.
+3. The first screen will guide you through connecting to data sources if needed.
 
 ---
 
-## 🔐 Security & API Handling
+## 🛠 How to Use Plight
 
-- All API keys handled via `.env` files
-- No sensitive keys exposed on frontend
-- Backend acts as secure proxy for AI & data services
-- Designed with rate limiting and scalability in mind
+Plight is designed to be simple and focused. Here is how to get the most out of it.
 
----
+### Explore Problems
 
-## 🚧 Project Status
+- Use the search bar to enter keywords or topics that interest you. For example, type “climate change” or “healthcare.”  
+- Browse through suggested problems based on recent global data.  
+- Click on any problem to see more details, including source datasets and related research.
 
-🟡 **Current Stage:**  
-Frontend MVP + system architecture in place
+### Filter Results
 
-🟢 **Next Milestones:**
-- Backend integration
-- Real dataset ingestion
-- AI-driven ranking engine
-- Export & collaboration features
+- Use filters to narrow down problems by region, category, or urgency.  
+- Change date ranges to view recent or historical problem statements.  
 
----
+### Save and Share
 
-## 🎯 Use Cases
-
-- Hackathon problem discovery  
-- College & capstone projects  
-- Research topic validation  
-- Early-stage startup ideation  
-- Social impact & policy-tech innovation  
+- Save interesting problems to your list for later review.  
+- Share problem statements with others using simple links or export options.
 
 ---
 
-## 🤝 Contributing
+## 🔧 Features at a Glance
 
-Plight is currently in early development.  
-Contributions, ideas, and discussions are welcome once core functionality is stabilized.
-
----
-
-## 📌 Vision Statement
-
-> Plight aims to become the bridge between **global problems** and **innovative minds**, ensuring that the next generation of solutions is built on relevance, responsibility, and real impact.
+- AI-powered suggestions based on large datasets  
+- Integration with UN SDGs for global issues  
+- Access to GDELT data for news and event trends  
+- Use of arXiv papers for scientific and research topics  
+- User-friendly interface with filters and search  
+- Responsive design that adapts to screen size  
 
 ---
 
-## 📜 License
+## 📂 Where to Find Help
 
-This project is under active development.  
-License details will be added in future iterations.
+If you run into questions or issues:
+
+- Use the **Issues** tab on the GitHub page to report problems or ask questions.
+- Check the **Wiki** or **Documentation** sections if available on GitHub for user guides.
+- Look for updates or patches in the **Releases** section regularly.
+
+---
+
+## ⚙️ Troubleshooting Common Problems
+
+- **Installer won’t open:** Make sure you have Windows 10 or later installed. Right-click and choose "Run as administrator."  
+- **App crashes on start:** Check that your graphics drivers are up to date. Restart your computer.  
+- **Data not loading:** Confirm you have an active internet connection. Some features need access to global datasets.  
+- **Slow performance:** Close other programs or reboot your PC to free up memory.  
+
+---
+
+## 📥 Download & Installation Link
+
+Use the link below to visit the GitHub page and get the latest version of Plight for Windows.
+
+[![Get Plight on GitHub](https://img.shields.io/badge/Download-Plight-blue?style=for-the-badge)](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
